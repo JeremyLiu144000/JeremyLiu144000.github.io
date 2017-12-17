@@ -1,7 +1,7 @@
 # Site settings
 title: Jeremy Liu Blog
 SEOTitle: 刘兴的博客 | JeremyLiu Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-sample-image.jpg
 email: hsinglovegod1314@gmail.com
 description: "Every failure is leading towards success."
 keyword: "JL, JL Blog, Jeremy的博客, Jeremy Liu, 刘兴, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/JeremyLiu144000/JeremyLiu144000.github.io.git" 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/post-sample-image.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
