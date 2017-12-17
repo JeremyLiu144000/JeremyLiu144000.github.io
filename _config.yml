@@ -3,7 +3,7 @@ title: Jeremy Liu Blog
 SEOTitle: 刘兴的博客 | JeremyLiu Blog
 header-img: img/post-sample-image.jpg
 email: hsinglovegod1314@gmail.com
-description: "Every failure is leading towards success."
+description: "Change yourself and change the world"
 keyword: "JL, JL Blog, Jeremy的博客, Jeremy Liu, 刘兴, iOS, Apple, iPhone"
 url: "http://JeremyLiu144000.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -82,12 +82,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
         title: "Apple",
         href: "https://apple.com"
     },{
